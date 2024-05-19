@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564810810221",
+    "project_id": "fruits-and-vegetables-shop",
+    "storage_bucket": "fruits-and-vegetables-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564810810221:android:e7231887c9c6332b6ed064",
+        "android_client_info": {
+          "package_name": "com.example.fruitsandveggiesshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564810810221-eudmfcl1g3le8haav4tptmak47vssg3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7-OIHLpuKeusOwC8UGHKJGS95S8t-3qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564810810221-eudmfcl1g3le8haav4tptmak47vssg3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
