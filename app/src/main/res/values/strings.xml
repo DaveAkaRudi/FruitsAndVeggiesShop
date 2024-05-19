@@ -29,7 +29,6 @@
         <item>Uborka</item>
         <item>Eper</item>
         <item>Paradicsom</item>
-        <item>Répa</item>
         <item>Banán</item>
     </string-array>
 
@@ -37,7 +36,6 @@
         <item>Ez egy uborka!</item>
         <item>Ez egy eper!</item>
         <item>Ez egy paradicsom!</item>
-        <item>Ez egy répa!</item>
         <item>Ez egy banán!</item>
     </string-array>
 
@@ -45,7 +43,6 @@
         <item>3.5</item>
         <item>5</item>
         <item>4</item>
-        <item>3</item>
         <item>5</item>
     </array>
 
@@ -53,7 +50,6 @@
         <item>@drawable/cucumber</item>
         <item>@drawable/strawberry</item>
         <item>@drawable/tomato</item>
-        <item>@drawable/carrot</item>
         <item>@drawable/banana</item>
     </array>
 
@@ -61,7 +57,6 @@
         <item>100 Dv</item>
         <item>150 Dv</item>
         <item>500 Dv</item>
-        <item>300 Dv</item>
         <item>400 Dv</item>
     </array>
 </resources>
