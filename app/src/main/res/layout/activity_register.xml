@@ -100,6 +100,8 @@
             android:onClick="register"
             android:text="@string/registration"
             android:textSize="20sp"
+            android:backgroundTint="@color/buttonColor"
+            android:textColor="@color/black"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"/>
 
@@ -112,6 +114,8 @@
             android:onClick="cancel"
             android:text="@string/cancel"
             android:textSize="20sp"
+            android:backgroundTint="@color/buttonColor"
+            android:textColor="@color/black"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
             android:layout_marginStart="20dp"/>

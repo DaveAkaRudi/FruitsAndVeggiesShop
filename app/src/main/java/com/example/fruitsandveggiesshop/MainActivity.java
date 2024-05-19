@@ -162,7 +162,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i(LOG_TAG, "onDestroy");
     }
 
-    //Itt használok Lifecycle Hook-ot, ami nem onCreate és még értelme is van!
     @Override
     protected void onPause() {
         super.onPause();

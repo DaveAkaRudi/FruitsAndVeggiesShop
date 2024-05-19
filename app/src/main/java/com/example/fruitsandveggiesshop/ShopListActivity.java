@@ -109,9 +109,6 @@ public class ShopListActivity extends AppCompatActivity {
         filter.addAction(Intent.ACTION_POWER_DISCONNECTED);
         this.registerReceiver(powerReceiver, filter);
 
-        // Intent intent = new Intent("CUSTOM_MOBALKFEJL_BROADCAST");
-        // LocalBroadcastManager.getInstance(this).sendBroadcast(intent);
-
         mNotificationHelper = new NotificationHelper(this);
     }
 
@@ -125,11 +122,11 @@ public class ShopListActivity extends AppCompatActivity {
 
             switch (intentAction) {
                 case Intent.ACTION_POWER_CONNECTED:
-                    itemLimit = 10;
+                    itemLimit = 5;
                     queryData();
                     break;
                 case Intent.ACTION_POWER_DISCONNECTED:
-                    itemLimit = 5;
+                    itemLimit = 3;
                     queryData();
                     break;
             }
